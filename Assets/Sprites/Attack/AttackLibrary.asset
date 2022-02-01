@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: AttackLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Attack
+    m_Hash: 1080829965
+    m_CategoryList:
+    - m_Name: Attack1
+      m_Hash: -47317214
+      m_Sprite: {fileID: 7651637157982661056, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack2
+      m_Hash: 1680125592
+      m_Sprite: {fileID: 2249319926009766770, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack3
+      m_Hash: 321101326
+      m_Sprite: {fileID: -2510619295042029641, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack4
+      m_Hash: -1924723795
+      m_Sprite: {fileID: 7688278974794972598, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack5
+      m_Hash: -96453829
+      m_Sprite: {fileID: 2809747546871707203, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack6
+      m_Hash: 1665755777
+      m_Sprite: {fileID: -2817197376859093987, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack7
+      m_Hash: 340679191
+      m_Sprite: {fileID: -3941199637282111443, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack8
+      m_Hash: -2064562298
+      m_Sprite: {fileID: -1353441229322344118, guid: cee493367d6674d40858c85bd532df07, type: 3}
+    - m_Name: Attack9
+      m_Hash: -201951472
+      m_Sprite: {fileID: 2897941179084099400, guid: cee493367d6674d40858c85bd532df07, type: 3}
+  - m_Name: RangedAttack
+    m_Hash: -608183251
+    m_CategoryList:
+    - m_Name: Attack1
+      m_Hash: -47317214
+      m_Sprite: {fileID: -2130315490130146450, guid: 7386ee610ea06234386b212f862c81fa, type: 3}
+    - m_Name: Attack2
+      m_Hash: 1680125592
+      m_Sprite: {fileID: -1603665775504979251, guid: 7386ee610ea06234386b212f862c81fa, type: 3}
+    - m_Name: Attack3
+      m_Hash: 321101326
+      m_Sprite: {fileID: 2098427994978087017, guid: 7386ee610ea06234386b212f862c81fa, type: 3}
+    - m_Name: Attack4
+      m_Hash: -1924723795
+      m_Sprite: {fileID: -8859168276666184133, guid: 7386ee610ea06234386b212f862c81fa, type: 3}
+    - m_Name: Attack5
+      m_Hash: -96453829
+      m_Sprite: {fileID: -8304261078431113238, guid: 7386ee610ea06234386b212f862c81fa, type: 3}

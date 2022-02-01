@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cd607dd824320cb4f8c81f17215000b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baseTilemap: {instanceID: 0}
+  - moveIndicatorTilemap: {instanceID: 0}
+  - attackIndicatorTilemap: {instanceID: 0}
+  - gridOutlineTilemap: {instanceID: 0}
+  - pathTile: {fileID: 11400000, guid: 4098abcadd741d74c9ba83966585453a, type: 2}
+  - grassTile: {fileID: 11400000, guid: 8f75e596542b2d24b8f7c52aba034054, type: 2}
+  - forestTile: {fileID: 11400000, guid: abe30c30291e4494d8a064c7d621e898, type: 2}
+  - rocksTile: {fileID: 11400000, guid: 4217f16b0154bc143a29909eb1e6cc0b, type: 2}
+  - waterTile: {fileID: 11400000, guid: 6c0c1a4734059bf4cb3fd35a0a9b2aca, type: 2}
+  - mountainTile: {fileID: 11400000, guid: 04a74dba5ae66d244a82c70576b42e50, type: 2}
+  - moveIndicatorTile: {fileID: 11400000, guid: 6ff44cafe2b946f408ed28d90d7a8cd9, type: 2}
+  - attackIndicatorTile: {fileID: 11400000, guid: 23c3872984fb1d149b149b8fac7897b5, type: 2}
+  - gridOutlineTile: {fileID: 11400000, guid: ac622daeeb2f83f4a8450dbed34e69ad, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LobbyController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 1903730275
+    locked: 0
+  - name: Outline
+    uniqueID: 908953193
+    locked: 0
+  - name: Indicator
+    uniqueID: 1918234245
+    locked: 0
+  - name: Units
+    uniqueID: 3972113291
+    locked: 0
+  - name: MouseHover
+    uniqueID: 3289057763
+    locked: 0
+  - name: HealthBar
+    uniqueID: 928152727
+    locked: 0

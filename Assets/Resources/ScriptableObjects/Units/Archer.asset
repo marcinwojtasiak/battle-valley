@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d807ce1e8bff164d81a2308325f69d0, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  hp: 25
+  armor: 0
+  attack: 20
+  attackRange: 3
+  counterAttack: 0
+  movementSpeed: 9
+  actions: 1
+  cost: 125
+  prefab: {fileID: 880676623312573019, guid: dd07238a402a2b645808c88bca6ae562, type: 3}
+  attackUnitSFXs:
+  - {fileID: 8300000, guid: 9df9b7e326a2b3e4c8accbeb1ab6fc30, type: 3}
+  - {fileID: 8300000, guid: c0fd898a08330f041a1aa145ffbb3684, type: 3}
+  - {fileID: 8300000, guid: ae49a22a79f2eda4bbfcd5629f628919, type: 3}
+  - {fileID: 8300000, guid: 4359466cb8b87544ea5aa0667e9b212c, type: 3}
+  - {fileID: 8300000, guid: 02948b39ee401914dbea694d24a54725, type: 3}
+  attackBuildingSFXs:
+  - {fileID: 8300000, guid: 9df9b7e326a2b3e4c8accbeb1ab6fc30, type: 3}
+  - {fileID: 8300000, guid: c0fd898a08330f041a1aa145ffbb3684, type: 3}
+  - {fileID: 8300000, guid: ae49a22a79f2eda4bbfcd5629f628919, type: 3}
+  - {fileID: 8300000, guid: 4359466cb8b87544ea5aa0667e9b212c, type: 3}
+  - {fileID: 8300000, guid: 02948b39ee401914dbea694d24a54725, type: 3}

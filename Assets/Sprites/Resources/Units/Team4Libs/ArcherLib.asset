@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: ArcherLib
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Idle
+    m_Hash: 2081823275
+    m_CategoryList:
+    - m_Name: Idle1
+      m_Hash: 790364397
+      m_Sprite: {fileID: 4275384550065738129, guid: 68200983ed163a24fbe80c3141b4d59a, type: 3}
+    - m_Name: Idle2
+      m_Hash: -1240116905
+      m_Sprite: {fileID: -462741631521605793, guid: 68200983ed163a24fbe80c3141b4d59a, type: 3}
+    - m_Name: Ilde3
+      m_Hash: 179640470
+      m_Sprite: {fileID: -198500568437436787, guid: 68200983ed163a24fbe80c3141b4d59a, type: 3}
+    - m_Name: Idle4
+      m_Hash: 1601631330
+      m_Sprite: {fileID: 5385656736036383603, guid: 68200983ed163a24fbe80c3141b4d59a, type: 3}
+  - m_Name: Moving
+    m_Hash: 949806512
+    m_CategoryList:
+    - m_Name: Walk1
+      m_Hash: 1502737586
+      m_Sprite: {fileID: 2715379055120340708, guid: a993ac819a8eb1048a3d4a5c83c587be, type: 3}
+    - m_Name: Walk2
+      m_Hash: -1063738104
+      m_Sprite: {fileID: 1981592194531456444, guid: a993ac819a8eb1048a3d4a5c83c587be, type: 3}
+    - m_Name: Walk3
+      m_Hash: -1214278242
+      m_Sprite: {fileID: 500775334492754148, guid: a993ac819a8eb1048a3d4a5c83c587be, type: 3}
+    - m_Name: Walk4
+      m_Hash: 704315453
+      m_Sprite: {fileID: 8620559041734586492, guid: a993ac819a8eb1048a3d4a5c83c587be, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: HoverIndicator
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 8773922345091852086, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 4425858983085626764, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 7422127402741341612, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 3946661213962286578, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 3946661213962286578, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 7422127402741341612, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 4425858983085626764, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  - {fileID: 8773922345091852086, guid: ba0900d69b83d314584a898db9f379e5, type: 3}
+  m_MinSpeed: 12
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

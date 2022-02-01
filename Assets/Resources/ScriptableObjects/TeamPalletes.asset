@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 077863796f7c40146a6d92b4567e5693, type: 3}
+  m_Name: TeamPalletes
+  m_EditorClassIdentifier: 
+  palettes:
+  - {fileID: 11400000, guid: b312a55de0b79f94d9eaf3db150091ac, type: 2}
+  - {fileID: 11400000, guid: 332e1d6133acd244c8bbee2ba53d6c96, type: 2}
+  - {fileID: 11400000, guid: 1ad11f50c53d80b4aa0b6920cfce96ac, type: 2}
+  - {fileID: 11400000, guid: 00838b22e5a96e74c896133228c5089e, type: 2}
+  - {fileID: 11400000, guid: afd9d08f4faf3054da627c519485e05d, type: 2}

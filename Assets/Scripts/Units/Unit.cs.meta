@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e2cff51f599e426438a558b159f48993
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stats: {instanceID: 0}
+  - hitAnimationPrefab: {fileID: 5097613506810475803, guid: 777b342b245a157458f4217cdeceea90, type: 3}
+  - owner: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - spriteLibrary: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - actionsDisplay: {instanceID: 0}
+  - hitAnimation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
